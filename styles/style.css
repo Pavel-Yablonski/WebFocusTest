@@ -1558,7 +1558,7 @@ form {
     color: rgba(0, 0, 0, 0.8);
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1400px) {
     .header__contacts, .header__language, .header__logo, .navigation {
         position: static;
         margin: 0 20px;

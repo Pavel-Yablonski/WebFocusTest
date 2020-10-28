@@ -1945,7 +1945,7 @@ form {
     }
 
     .header .wrapper {
-        margin-left: 10px;
+        margin-left: 0;
         margin-right: 0;
     }
 
@@ -1955,5 +1955,13 @@ form {
 
     .navigation ul {
         right: 0;
+    }
+    
+    .header__eye {
+        display: none;
+    }
+
+    .slider-wrapper {
+        padding: 148px 15px 250px 10px;
     }
 }

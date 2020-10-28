@@ -1869,7 +1869,7 @@ form {
     }
 }
 
-@media (max-width: 640px) {
+@media (max-width: 660px) {
     .header__eye {
         transform: translateX(-195%);
     }

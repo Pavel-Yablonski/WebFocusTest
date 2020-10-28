@@ -1879,6 +1879,10 @@ form {
         display: none;
     }
 
+    .header__logo img {
+        width: 200px;
+    }
+
     .operator {
         display: none;
     }
